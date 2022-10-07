@@ -1,0 +1,12 @@
+C:\ZWorkSpace\Calismalar\SB.Portal.Web\SB.Library\bin\Debug\net6.0\SB.Library.deps.json
+C:\ZWorkSpace\Calismalar\SB.Portal.Web\SB.Library\bin\Debug\net6.0\SB.Library.dll
+C:\ZWorkSpace\Calismalar\SB.Portal.Web\SB.Library\bin\Debug\net6.0\SB.Library.pdb
+C:\ZWorkSpace\Calismalar\SB.Portal.Web\SB.Library\obj\Debug\net6.0\SB.Library.csproj.AssemblyReference.cache
+C:\ZWorkSpace\Calismalar\SB.Portal.Web\SB.Library\obj\Debug\net6.0\SB.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\ZWorkSpace\Calismalar\SB.Portal.Web\SB.Library\obj\Debug\net6.0\SB.Library.AssemblyInfoInputs.cache
+C:\ZWorkSpace\Calismalar\SB.Portal.Web\SB.Library\obj\Debug\net6.0\SB.Library.AssemblyInfo.cs
+C:\ZWorkSpace\Calismalar\SB.Portal.Web\SB.Library\obj\Debug\net6.0\SB.Library.csproj.CoreCompileInputs.cache
+C:\ZWorkSpace\Calismalar\SB.Portal.Web\SB.Library\obj\Debug\net6.0\SB.Library.dll
+C:\ZWorkSpace\Calismalar\SB.Portal.Web\SB.Library\obj\Debug\net6.0\refint\SB.Library.dll
+C:\ZWorkSpace\Calismalar\SB.Portal.Web\SB.Library\obj\Debug\net6.0\SB.Library.pdb
+C:\ZWorkSpace\Calismalar\SB.Portal.Web\SB.Library\obj\Debug\net6.0\ref\SB.Library.dll
